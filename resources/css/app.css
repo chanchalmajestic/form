@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.formFill{
+    text-align: center;
+    width: fit-content;
+    padding: 0 auto;
+    margin: 0 auto;
+}
+
+.container{
+    background-color: blue;
+}
